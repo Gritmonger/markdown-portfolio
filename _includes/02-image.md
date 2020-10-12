@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![A Green Lion](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4531da1b-c2cc-4627-aa47-c617121c172a/d1zcum1-8caaaa28-95bc-4ad6-923b-0259938d488c.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNDUzMWRhMWItYzJjYy00NjI3LWFhNDctYzYxNzEyMWMxNzJhXC9kMXpjdW0xLThjYWFhYTI4LTk1YmMtNGFkNi05MjNiLTAyNTk5MzhkNDg4Yy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.EfkMjXK_6hcyh7cGZL1qoALsiTTS4NDTQjbQwa-x-uY)
